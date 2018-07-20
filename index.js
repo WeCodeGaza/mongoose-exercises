@@ -6,7 +6,8 @@ mongoose.connect('mongodb://localhost/mongoose_basics', function (err) {
 	console.log('Successfully connected');
 });
 
-var userSchema = mongoose.Schema({
+var authorSchema = mongoose.Schema({
 	firstName: String,
 	lastName: String
 });
+
