@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeCodeGaza/mongoose-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeCodeGaza/mongoose-exercises/issues"
+  },
+  "homepage": "https://github.com/WeCodeGaza/mongoose-exercises#readme",
+  "dependencies": {
+    "mongoose": "^5.2.4"
+  }
+}
