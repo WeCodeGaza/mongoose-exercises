@@ -4,9 +4,11 @@
 // 0  3  6  9  12 15 18 21 24 27 30
 // ....
 
-void printMultiplicationTable() {
+function printMultiplicationTable() {
 
 }
+
+printMultiplicationTable();
 
 // Exercise #2: FizzBuzz!
 // List numbers from 1 to 100
@@ -16,16 +18,18 @@ void printMultiplicationTable() {
 // i.e.
 // 0 1 2 Fizz 4 Buzz Fizz 7 8 Fizz ...
 
-void FizzBuzz() {
+function FizzBuzz() {
 
 }
+
+FizzBuzz();
 
 // Exercise #3: Shopping Cart Register
 // Write a function that takes as input an object
 // with many items for a party, and outputs the
 // total sum of those items!
 
-void cashRegister(cart) {
+function cashRegister(cart) {
 
 }
 
@@ -63,7 +67,9 @@ var myBooks = [{
 }];
 
 
-void readingList(books) {
+function readingList(books) {
 
 }
+
+readingList(myBooks);
 
